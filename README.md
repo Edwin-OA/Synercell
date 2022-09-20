@@ -8,16 +8,16 @@ To run Syngen and Synpro contained in Syncell is necessary to install the reakto
 
 Reaktoro
 
-In the terminal choose the work carpet where the programs and your files are contained
-Instal miniconda from the following link https://docs.conda.io/en/latest/miniconda.html
-Download the 64-bit bash file
-In the terminal window type 'bash' and drag the downloaded file next to bash in the terminal window
-Follow the instructions to install miniconda and accept the terms and conditions
-Next, add the conda-forge channels by typing in the terminal: conda config --append channels conda-forge
-Once done this, install reaktoro by typing: conda install reaktoro=1
-To create the environment for reaktoro type: conda create -n rkt reaktoro
-Before running Syncell is necessary to activate reaktoro by typing: conda activate rkt or conda activate (rkt path) Biopython
-In the terminal window type: pip install biopython Matplotlib
-In the terminal type: python -m pip install -U matplotlib ProgressBar
-Similarly, type: pip install progressbar2 ProgressBar
-Finally, type: pip install tqdm
+1. In the terminal choose the work carpet where the programs and your files are contained
+2. Instal miniconda from the following link https://docs.conda.io/en/latest/miniconda.html
+3. Download the 64-bit bash file
+4. In the terminal window type 'bash' and drag the downloaded file next to bash in the terminal window
+5. Follow the instructions to install miniconda and accept the terms and conditions
+6. Next, add the conda-forge channels by typing in the terminal: conda config --append channels conda-forge
+7. Once done this, install reaktoro by typing: conda install reaktoro=1
+8. To create the environment for reaktoro type: conda create -n rkt reaktoro
+9. Before running Syncell is necessary to activate reaktoro by typing: conda activate rkt or conda activate (rkt path) Biopython
+10. In the terminal window type: pip install biopython Matplotlib
+11. In the terminal type: python -m pip install -U matplotlib ProgressBar
+12. Similarly, type: pip install progressbar2 ProgressBar
+13 Finally, type: pip install tqdm
