@@ -21,3 +21,6 @@ Reaktoro
 11. In the terminal type: python -m pip install -U matplotlib ProgressBar
 12. Similarly, type: pip install progressbar2 ProgressBar
 13 Finally, type: pip install tqdm
+
+
+Now that you have all the progrms required installed and running you can run the program with python _syncell.py in the terminal window. The program will ask some questions. I recommend you previously download any genome and protein sequence you want to assess and add it to the same folder.
