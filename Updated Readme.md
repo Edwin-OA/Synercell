@@ -1,6 +1,6 @@
 # Synercell
 
-This file provides guidance to WARP (warp.dev) when working with code in this repository.  It describes the purpose of the software, how to run it, the required environment, and a high‑level overview of the architecture and data flow.  Use this document as a quick reference when automating tasks or exploring the code with WARP.
+This file provides guidance to humans and AI agents when working with code in this repository.  It describes the purpose of the software, how to run it, the required environment, and a high‑level overview of the architecture and data flow.  Use this document as a quick reference when automating tasks or exploring the code.
 
 ## Project Overview
 
